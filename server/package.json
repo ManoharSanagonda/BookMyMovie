@@ -50,7 +50,7 @@
     "joi": "10.5.2",
     "material": "0.1.1",
     "md5": "2.2.1",
-    "method-override": "2.3.9",
+    "method-override": "2.3.10",
     "mocha": "6.1.4",
     "moment-timezone": "0.5.17",
     "monero-nodejs": "3.2.2",
