@@ -52,7 +52,7 @@
     "md5": "2.2.1",
     "method-override": "2.3.9",
     "mocha": "6.1.4",
-    "moment-timezone": "0.5.17",
+    "moment-timezone": "0.5.35",
     "monero-nodejs": "3.2.2",
     "monero-rpc": "0.5.0",
     "money": "0.2.0",
